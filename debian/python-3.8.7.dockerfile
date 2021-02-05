@@ -1,4 +1,4 @@
-# name: dukthosting/pteropython
+# name: dukthosting/ptero-python
 # tag: 3.8.7-buster
 # ----------------------------------
 # Environment: python:3.8.7-buster
