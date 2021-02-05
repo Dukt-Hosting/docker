@@ -1,8 +1,10 @@
+# name: dukthosting/pteropython
+# tag: 3.10-rc
 # ----------------------------------
-# Environment: python:3.10-rc-dockerfile
+# Environment: python:3.10-rc-buster
 # Minimum Panel Version: 0.7.X
 # ----------------------------------
-FROM python:3.10-rc-dockerfile
+FROM python:3.10-rc-buster
 
 LABEL author="Dukt Hosting" maintainer="josh@dukthosting.net"
 
