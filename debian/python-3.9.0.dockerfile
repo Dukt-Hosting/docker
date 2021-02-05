@@ -1,3 +1,5 @@
+# name: dukthosting/pteropython
+# tag: 3.9-buster
 # ----------------------------------
 # Environment: python:3.9-buster
 # Minimum Panel Version: 0.7.X
