@@ -1,5 +1,5 @@
 # name: dukthosting/pteropython
-# tag: 3.10-rc
+# tag: 3.10-rc-buster
 # ----------------------------------
 # Environment: python:3.10-rc-buster
 # Minimum Panel Version: 0.7.X
