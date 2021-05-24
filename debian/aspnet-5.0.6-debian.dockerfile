@@ -1,4 +1,3 @@
-```dockerfile
 FROM        --platform=$BUILDPLATFORM mcr.microsoft.com/dotnet/aspnet:5.0.6
 
 LABEL       author="Dukt Hosting" maintainer="support@dukthosting.net"
@@ -13,4 +12,3 @@ WORKDIR     /home/container
 
 COPY        ./../entrypoint.sh /entrypoint.sh
 CMD         [ "/bin/bash", "/entrypoint.sh" ]
-```
