@@ -24,6 +24,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: File Changes Action
+        id: file_changes
         # You may pin to the exact commit or the version.
         # uses: trilom/file-changes-action@a6ca26c14274c33b15e6499323aac178af06ad4b
         uses: trilom/file-changes-action@v1.2.4
